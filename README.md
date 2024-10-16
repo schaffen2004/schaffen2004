@@ -18,7 +18,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/schaffen2004/schaffen2004/blob/74f8de8bb1aff86f8fb0118e36dce0f0d18cf478/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/schaffen2004/schaffen2004/blob/output/github-snake.svg" />
   
   <br/><br/><br/>
 </div>
