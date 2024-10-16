@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lap. Hoang Van</h1>
-<h3 align="center">A AI researcher from Vietnam</h3>
+<h3 align="center">AI researcher from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schaffen2004&label=Profile%20views&color=0e75b6&style=flat" alt="schaffen2004" /> </p>
 
