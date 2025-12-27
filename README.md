@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schaffen2004&label=Profile%20views&color=0e75b6&style=flat" alt="schaffen2004" /> </p>
 
-- 🌱 I’m currently learning **NLP, Machine Learning
-**
+- 🌱 I’m currently learning <u>NLP, Machine Learning</u>
 
 - 📫 How to reach me **laphv494@gmail.com**
 
