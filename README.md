@@ -23,6 +23,4 @@
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schaffen2004&show_icons=true&locale=en&layout=compact" alt="schaffen2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schaffen2004&show_icons=true&locale=en" alt="schaffen2004" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schaffen2004&" alt="schaffen2004" /></p>
